@@ -6,6 +6,8 @@ The repository gathers hardware, software, and management artifacts of the power
 ## Purpose
 Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) and powered by the same AC-DC supply with enough power budged (for example, [MEAN WELL RS-35-5](https://www.meanwellusa.com/webapp/product/search.aspx?prod=RS-35)).
 
+<img src="./I2C-PPS Sketch.png" alt="I2C-PPS Sketch" width="512">
+
 ## Specifications
 - Controller: Texas Instruments [BQ25758S](https://www.ti.com/product/BQ25758S)
 - Input voltage: 5V
