@@ -19,7 +19,7 @@ Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.r
 ## Components
 Using calculator spreadsheets ([BQ25756_DESIGN-CALC-V01X4 (Low, 250).xlsx](BQ25756_DESIGN-CALC-V01X4%20(Low%2C%20250).xlsx) for lower and [BQ25756_DESIGN-CALC-V01X4 (High, 250).xlsx](BQ25756_DESIGN-CALC-V01X4%20(High%2C%20250).xlsx) for higher output voltage) selected following power stage components and programming resistor values.
 - Power Stage:
-  - Inductor: 10uH, Isat > 4.07A, DCR 1.75 - 60mOhm (for example, [SRP1038A-100M](https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf))
+  - Inductor: 10uH, Isat > 6.3A, DCR 1.75 - 60mOhm (for example, [SRP1038A-100M](https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf))
   - Power MOSFETs: [SiR880BDP](https://www.vishay.com/docs/63031/sir880bdp.pdf) (TI Recommended)
 - Input Sensor and Current Limit:
   - Sense Resistor: 5mOhm
