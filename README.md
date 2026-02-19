@@ -33,3 +33,6 @@ Using calculator spreadsheets ([BQ25756_DESIGN-CALC-V01X4 (Low, 250).xlsx](BQ257
   - Output Pull-down: 10k (limit 5A)
 - Mode Resistor: 3k (sets Buck-Boost mode)
 - Input/Output Capacitors: TBD
+
+## Schematics
+Schematis are stored in a dedicated repository - [condevtion/i2c-pps-hw](https://github.com/condevtion/i2c-pps-hw).
