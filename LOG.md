@@ -1,5 +1,7 @@
 # Project Log
 
+## 2026-02-19
+Added symbol and footprints for the BQ25756S controller to the schematic repository.
 ## 2026-02-18
 Started a repository for HW schematics - [github.com/vasili-v/i2c-pps-hw](https://github.com/vasili-v/i2c-pps-hw).
 ## 2026-02-17
