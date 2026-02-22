@@ -35,4 +35,13 @@ Using calculator spreadsheets ([BQ25756_DESIGN-CALC-V01X4 (Low, 250).xlsx](BQ257
 - Input/Output Capacitors: TBD
 
 ## Schematics
-Schematis are stored in a dedicated repository - [condevtion/i2c-pps-hw](https://github.com/condevtion/i2c-pps-hw).
+Schematics are stored in a dedicated repository - [condevtion/i2c-pps-hw](https://github.com/condevtion/i2c-pps-hw).  The device is complex enough for the schematics to be split into several pages, one for each functional block.
+<img src="./I2C-PPS Sketch.Diagram.png" alt="I2C-PPS Diagram" width="720">
+
+The diagram above shows following blocks:
+- Controller and Power Stage - consists of the BQ25758S controller, the power MOSFETs, and the inductor
+- Input Filter and Sensor - a set of input capacitors and the input current sense resistor connected according to 4-point probes (Kelvin) method
+- Output Filter and Sensor - the same for output circuit
+- Master Switch - an input protection and an electronically controllable power switch
+- Digital I/O - digital interface between controller and I2C host, contains as well a status LED, a power good LED, and an independent voltage regulator for the digital circuit
+- Programming - a set of resistors to define controller's operating mode and HW limits for voltage and current

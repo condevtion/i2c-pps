@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.4.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="2">
   <diagram name="Usage" id="mvzQvBtuBL7BiNEHLKIu">
     <mxGraphModel dx="1018" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,10 +56,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y6K6mDqLggd-vvUmmWVq" name="Diagram">
-    <mxGraphModel dx="1018" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HSnUNr2fC1I2OSwnSf5a-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="280" width="160" x="400" y="20" as="geometry" />
+        </mxCell>
         <UserObject label="BQ25758S&lt;div&gt;Buck-Boost&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" id="IuKkcAIiOjOAIVZtQ9ns-1">
           <mxCell parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1">
             <mxGeometry height="100" width="100" x="430" y="180" as="geometry" />
@@ -89,7 +92,7 @@
             <mxPoint x="510" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IuKkcAIiOjOAIVZtQ9ns-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Filter&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Sensor&lt;/div&gt;" vertex="1">
+        <mxCell id="IuKkcAIiOjOAIVZtQ9ns-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Output Filter&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Sensor&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="600" y="40" as="geometry" />
         </mxCell>
         <mxCell id="IuKkcAIiOjOAIVZtQ9ns-9" edge="1" parent="1" source="IuKkcAIiOjOAIVZtQ9ns-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="IuKkcAIiOjOAIVZtQ9ns-8" value="">
@@ -134,7 +137,7 @@
             <mxPoint x="570" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiAqT9KR8akM4M4a26TP-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="On/Off&lt;div&gt;Switch&lt;/div&gt;" vertex="1">
+        <mxCell id="RiAqT9KR8akM4M4a26TP-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;Master&lt;/div&gt;&lt;div&gt;Switch&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="120" y="40" as="geometry" />
         </mxCell>
         <mxCell id="RiAqT9KR8akM4M4a26TP-2" edge="1" parent="1" source="RiAqT9KR8akM4M4a26TP-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="IuKkcAIiOjOAIVZtQ9ns-5" value="">

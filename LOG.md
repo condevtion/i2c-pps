@@ -1,5 +1,7 @@
 # Project Log
 
+## 2026-02-21
+Created a boilerplate for the whole devices schematics. Including a set of pages for different parts of the device, a set of main networks and busses, and connections between them. Decided on network nameing.
 ## 2026-02-19
 Added symbol and footprints for the BQ25756S controller to the schematic repository.
 ## 2026-02-18
