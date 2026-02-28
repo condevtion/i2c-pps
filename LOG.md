@@ -1,5 +1,17 @@
 # Project Log
 
+## 2026-02-27
+Finalize schematics design
+## 2026-02-26
+Design the digital I/O circuit
+## 2026-02-25
+Dedigned the master switch and relaxed requirements on the input filter components
+## 2026-02-24
+Designed the output filter and sensor schematic
+## 2026-02-23
+Designed the input filter and sensor schematic
+## 2026-02-22
+Designed the programming and controller and power stage schematics
 ## 2026-02-21
 Created a boilerplate for the whole devices schematics. Including a set of pages for different parts of the device, a set of main networks and busses, and connections between them. Decided on network nameing.
 ## 2026-02-19
