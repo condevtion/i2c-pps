@@ -8,6 +8,9 @@ Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.r
 
 <img src="./I2C-PPS Sketch.Usage.png" alt="I2C-PPS Sketch" width="512">
 
+## Publications
+* [Part 1 - Idea](https://github.com/condevtion/i2c-pps/tree/main/reports/01.%20Idea) Feb 15, 2026. Describes the project motivation
+
 ## Specifications
 - Controller: Texas Instruments [BQ25758S](https://www.ti.com/product/BQ25758S)
 - Input voltage: 5V (4-6V - hardware power good window)
