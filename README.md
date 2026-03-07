@@ -23,16 +23,16 @@ Using calculator spreadsheets ([BQ25756_DESIGN-CALC-V01X4 (Low, 250).xlsx](BQ257
   - Power MOSFETs: [SiR880BDP](https://www.vishay.com/docs/63031/sir880bdp.pdf) (TI Recommended)
 - Input Sensor and Current Limit:
   - Sense Resistor: 5mOhm
-  - Input Pull-down: 4k (limit 5A)
+  - Input Pull-down: 3.92k (limit 5A)
 - Input Under/Over-voltage Programming Resistors (for 4-6V with 4.4V DPM limit):
   - Top: 1000k
-  - Middle: 103k
-  - Bottom: 276k
+  - Middle: 105k
+  - Bottom: 274k
 - Output Sensor and Current Limit:
   - Sense Resistor: 5mOhm
   - Output Pull-down: 10k (limit 5A)
 - Mode Resistor: 3k (sets Buck-Boost mode)
-- Input/Output Capacitors: TBD
+- Capacitors: 3x47uF 35V (input), 3x56uF 80V (output), and set of ceramic capacitors to provide low ESR
 
 ## Schematics
 Schematics are stored in a dedicated repository - [condevtion/i2c-pps-hw](https://github.com/condevtion/i2c-pps-hw).  The device is complex enough for the schematics to be split into several pages, one for each functional block.
