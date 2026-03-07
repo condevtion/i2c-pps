@@ -10,6 +10,7 @@ Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.r
 
 ## Publications
 * [Part 1 - Idea](https://github.com/condevtion/i2c-pps/tree/main/reports/01.%20Idea) Feb 15, 2026. Describes the project motivation
+* [Part 2 - Planning](https://github.com/condevtion/i2c-pps/tree/main/reports/02.%20Planning) Feb 18, 2026. Represents initial plan for device development
 
 ## Specifications
 - Controller: Texas Instruments [BQ25758S](https://www.ti.com/product/BQ25758S)
