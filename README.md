@@ -40,6 +40,9 @@ Using calculator spreadsheets ([BQ25756_DESIGN-CALC-V01X4 (Low, 250).xlsx](BQ257
 - Mode Resistor: 3k (sets Buck-Boost mode)
 - Capacitors: 3x47uF 35V (input), 3x56uF 80V (output), and set of ceramic capacitors to provide low ESR
 
+As of Mar 7, 2026 BOM for one assembly contains 51 entry and costs $48.99. The same BOM total for 3 assemblies adjusted
+for higher quantity offers is $108.88 or $36.29 per assembly - [I2C-PPS BOM.csv](I2C-PPS%20BOM.csv).
+
 ## Schematics
 Schematics are stored in a dedicated repository - [condevtion/i2c-pps-hw](https://github.com/condevtion/i2c-pps-hw).  The device is complex enough for the schematics to be split into several pages, one for each functional block.
 <img src="./I2C-PPS Sketch.Diagram.png" alt="I2C-PPS Diagram" width="720">
