@@ -1,5 +1,7 @@
 # Project Log
 
+## 2026-03-05
+Select market available components
 ## 2026-03-01
 Renamed VIN\*, VOUT\* networks and busses to make them more descriptive. Added more LEDs. Switched to MOSFET based polarity protection. Fixed ERC errors and warnings
 ## 2026-02-27
