@@ -1,52 +1,52 @@
-Index,Part Number,Manufacturer,Availability,Unit Quantity,Pack Quantity,Unit Price,Extended Price,Reference,US Import Tariff
-1,BQ25758SRRVR,Texas Instruments,"2,926",1,3,4.43000,$13.29,U1,	-
-2,SRP1038A-100M,Bourns Inc.,"16,994",1,3,1.14000,$3.42,L1,May apply on shipments to the U.S.
-3,SIR880BDP-T1-RE3,Vishay Siliconix,"8,458",4,12,1.26400,$15.17,Q1-4,	-
-4,RC0603FR-07133KL,YAGEO,"27,615",1,10,0.00600,$0.06,R1,	-
-5,RC0603FR-073K92L,YAGEO,"19,501",1,10,0.00600,$0.06,R2,	-
-6,RC0603FR-0710KL,YAGEO,"4,490,015",1,10,0.01000,$0.10,R3,	-
-7,RC0603FR-073KL,YAGEO,"392,612",1,10,0.00900,$0.09,R4,	-
-8,RC0603JR-071K8L,YAGEO,"149,196",2,10,0.00800,$0.08,"R8,9",	-
-9,ERA-6AEB105V,Panasonic Electronic Components,"82,744",1,3,0.10000,$0.30,R5,	-
-10,ERA-6AEB1053V,Panasonic Electronic Components,"15,012",1,3,0.10000,$0.30,R6,	-
-11,ERA-6AEB2743V,Panasonic Electronic Components,"4,148",1,3,0.10000,$0.30,R7,	-
-12,V1FM10-M3/H,Vishay General Semiconductor - Diodes Division,"56,966",2,6,0.24000,$1.44,"D1,2",	-
-13,RC0603JR-070RL,YAGEO,"4,181,627",6,18,0.01000,$0.18,"R10-13,15,16",	-
-14,CRCW08050000Z0EAC,Vishay Dale,"365,850",1,3,0.10000,$0.30,R14,May apply on shipments to the U.S.
-15,C0603C104K3RACTU,KEMET,"3,618,773",2,10,0.01000,$0.10,"C3,4",	-
-16,HMK107B7104KAHT,Taiyo Yuden,"163,586",9,27,0.07900,$2.13,"C6,7,11,12,14,15,22,25,37",	-
-17,CGA4J1X7R1E475K125AE,TDK Corporation,"1,467",2,6,0.51000,$3.06,"C8,9",	-
-18,08051C105K4Z2A,KYOCERA AVX,"165,836",5,15,0.23400,$3.51,"C5,23,24,38,44",	-
-19,C0603C104K8RACTU,KEMET,"678,301",2,10,0.05900,$0.59,"C1,2",May apply on shipments to the U.S.
-20,AP2210N-3.3TRG1,Diodes Incorporated,"2,507",1,3,0.20000,$0.60,U2,	-
-21,SN74AHC1G14DBVR,Texas Instruments,"437,600",1,3,0.12000,$0.36,U3,	-
-22,GRM188R71A225KE15J,Murata Electronics,"1,744,465",1,3,0.14000,$0.42,C46,	-
-23,885012206003,Würth Elektronik,"23,088",1,10,0.03400,$0.34,C45,	-
-24,CGA6N3X7R2A225K230AE,TDK Corporation,"60,213",1,3,1.16000,$3.48,C47,	-
-25,RC0603JR-0710KL,YAGEO,"892,293",4,12,0.00800,$0.10,"R26,29",	-
-26,RC0603JR-071KL,YAGEO,"1,257,535",6,18,0.00700,$0.13,"R30-33,35,38",	-
-27,RC0603JR-0720KL,YAGEO,"88,037",2,10,0.00800,$0.08,"R25,37",	-
-28,RC0603JR-072K7L,YAGEO,"1,053,761",1,10,0.00800,$0.08,R36,	-
-29,LTST-C190GKT,Lite-On Inc.,"1,569,079",4,12,0.09400,$1.13,D6-9,	-
-30,LTST-C193KRKT-2A,Lite-On Inc.,"141,995",1,3,0.17000,$0.51,D5,	-
-31,LTST-C190YKT,Lite-On Inc.,"155,272",1,3,0.12000,$0.36,D10,	-
-32,LTST-C193TBKT-5A,Lite-On Inc.,"300,953",1,3,0.18000,$0.54,D11,	-
-33,PPPC052LFBN-RC,Sullins Connector Solutions,"23,091",1,3,0.68000,$2.04,J3,	-
-34,PA2512FKM070R005E,YAGEO,"4,280",2,6,0.55000,$3.30,"R23,24",	-
-35,SR1206FR-7T10RL,YAGEO,"8,006",1,3,0.14000,$0.42,R34,	-
-36,CL10B474KO8NNNC,Samsung Electro-Mechanics,"184,884",2,10,0.03900,$0.39,"C10,13",	-
-37,CGA3E2X7R2A102K080AA,TDK Corporation,"29,552",1,3,0.10000,$0.30,C21,	-
-38,CGA3E2C0G2A101J080AA,TDK Corporation,"49,327",2,10,0.07100,$0.71,"C26,36",	-
-39,C1210X106K101T,"Holy Stone Enterprise Co., Ltd.","13,784",6,18,0.80900,$14.56,"C27-29,39-41",	-
-40,GCJ32DC72A475KE01L,Murata Electronics,"1,969",5,15,0.64100,$9.62,"C30,31,35,42,43",	-
-41,A768MS566M1KLAE034,KEMET,"15,450",3,10,0.72500,$7.25,C18-20,May apply on shipments to the U.S.
-42,A768EB476M1VLAE042,KEMET,"29,431",3,10,0.32200,$3.22,C32-34,May apply on shipments to the U.S.
-43,SMAJ6.5CA-AT/TR13,YAGEO,"5,000",1,3,0.18000,$0.54,D3,May apply on shipments to the U.S.
-44,SMD2920B500TF,YAGEO,"1,980",1,3,0.67000,$2.01,F1,May apply on shipments to the U.S.
-45,BZX384C2V4-E3-08,Vishay General Semiconductor - Diodes Division,"7,433",1,3,0.10000,$0.30,D12,May apply on shipments to the U.S.
-46,SIS413DN-T1-GE3,Vishay Siliconix,"24,720",2,6,1.18000,$7.08,"Q5,8",	-
-47,MMBT3904-TP,MCC (Micro Commercial Components),"695,591",2,6,0.10000,$0.60,"Q6,7",May apply on shipments to the U.S.
-48,1-1123724-2,TE Connectivity AMP Connectors,"85,300",1,3,0.20000,$0.60,J1,May apply on shipments to the U.S.
-49,1-1123722-3,TE Connectivity AMP Connectors,"435,255",1,3,0.14000,$0.42,J1.a,May apply on shipments to the U.S.
-50,1123721-1,TE Connectivity AMP Connectors,"582,244",2,10,0.13500,$1.35,J1.b,May apply on shipments to the U.S.
-51,TB006-508-02BE,Same Sky (Formerly CUI Devices),"15,812",1,3,0.52000,$1.56,J2,May apply on shipments to the U.S.
+Part Number,Manufacturer,Unit Quantity,Pack Quantity,Unit Price,Extended Price,Reference,US Import Tariff
+BQ25758SRRVR,Texas Instruments,1,3,4.43000,$13.29,U1,	-
+SRP1038A-100M,Bourns Inc.,1,3,1.14000,$3.42,L1,May apply on shipments to the U.S.
+SIR880BDP-T1-RE3,Vishay Siliconix,4,12,1.26400,$15.17,Q1-4,	-
+RC0603FR-07133KL,YAGEO,1,10,0.00600,$0.06,R1,	-
+RC0603FR-073K92L,YAGEO,1,10,0.00600,$0.06,R2,	-
+RC0603FR-0710KL,YAGEO,1,10,0.01000,$0.10,R3,	-
+RC0603FR-073KL,YAGEO,1,10,0.00900,$0.09,R4,	-
+RC0603JR-071K8L,YAGEO,2,10,0.00800,$0.08,"R8,9",	-
+ERA-6AEB105V,Panasonic Electronic Components,1,3,0.10000,$0.30,R5,	-
+ERA-6AEB1053V,Panasonic Electronic Components,1,3,0.10000,$0.30,R6,	-
+ERA-6AEB2743V,Panasonic Electronic Components,1,3,0.10000,$0.30,R7,	-
+V1FM10-M3/H,Vishay General Semiconductor - Diodes Division,2,6,0.24000,$1.44,"D1,2",	-
+RC0603JR-070RL,YAGEO,6,18,0.01000,$0.18,"R10-13,15,16",	-
+CRCW08050000Z0EAC,Vishay Dale,1,3,0.10000,$0.30,R14,May apply on shipments to the U.S.
+C0603C104K3RACTU,KEMET,2,10,0.01000,$0.10,"C3,4",	-
+HMK107B7104KAHT,Taiyo Yuden,9,27,0.07900,$2.13,"C6,7,11,12,14,15,22,25,37",	-
+CGA4J1X7R1E475K125AE,TDK,2,6,0.51000,$3.06,"C8,9",	-
+08051C105K4Z2A,KYOCERA AVX,5,15,0.23400,$3.51,"C5,23,24,38,44",	-
+C0603C104K8RACTU,KEMET,2,10,0.05900,$0.59,"C1,2",May apply on shipments to the U.S.
+AP2210N-3.3TRG1,Diodes Incorporated,1,3,0.20000,$0.60,U2,	-
+SN74AHC1G14DBVR,Texas Instruments,1,3,0.12000,$0.36,U3,	-
+GRM188R71A225KE15J,Murata Electronics,1,3,0.14000,$0.42,C46,	-
+885012206003,Würth Elektronik,1,10,0.03400,$0.34,C45,	-
+CGA6N3X7R2A225K230AE,TDK,1,3,1.16000,$3.48,C47,	-
+RC0603JR-0710KL,YAGEO,4,12,0.00800,$0.10,"R26,29",	-
+RC0603JR-071KL,YAGEO,6,18,0.00700,$0.13,"R30-33,35,38",	-
+RC0603JR-0720KL,YAGEO,2,10,0.00800,$0.08,"R25,37",	-
+RC0603JR-072K7L,YAGEO,1,10,0.00800,$0.08,R36,	-
+LTST-C190GKT,Lite-On Inc.,4,12,0.09400,$1.13,D6-9,	-
+LTST-C193KRKT-2A,Lite-On Inc.,1,3,0.17000,$0.51,D5,	-
+LTST-C190YKT,Lite-On Inc.,1,3,0.12000,$0.36,D10,	-
+LTST-C193TBKT-5A,Lite-On Inc.,1,3,0.18000,$0.54,D11,	-
+PPPC052LFBN-RC,Sullins Connector Solutions,1,3,0.68000,$2.04,J3,	-
+PA2512FKM070R005E,YAGEO,2,6,0.55000,$3.30,"R23,24",	-
+SR1206FR-7T10RL,YAGEO,1,3,0.14000,$0.42,R34,	-
+CL10B474KO8NNNC,Samsung Electro-Mechanics,2,10,0.03900,$0.39,"C10,13",	-
+CGA3E2X7R2A102K080AA,TDK,1,3,0.10000,$0.30,C21,	-
+CGA3E2C0G2A101J080AA,TDK,2,10,0.07100,$0.71,"C26,36",	-
+C1210X106K101T,"Holy Stone Enterprise Co., Ltd.",6,18,0.80900,$14.56,"C27-29,39-41",	-
+GCJ32DC72A475KE01L,Murata Electronics,5,15,0.64100,$9.62,"C30,31,35,42,43",	-
+A768MS566M1KLAE034,KEMET,3,10,0.72500,$7.25,C18-20,May apply on shipments to the U.S.
+A768EB476M1VLAE042,KEMET,3,10,0.32200,$3.22,C32-34,May apply on shipments to the U.S.
+SMAJ6.5CA-AT/TR13,YAGEO,1,3,0.18000,$0.54,D3,May apply on shipments to the U.S.
+SMD2920B500TF,YAGEO,1,3,0.67000,$2.01,F1,May apply on shipments to the U.S.
+BZX384C2V4-E3-08,Vishay General Semiconductor - Diodes Division,1,3,0.10000,$0.30,D12,May apply on shipments to the U.S.
+SIS413DN-T1-GE3,Vishay Siliconix,2,6,1.18000,$7.08,"Q5,8",	-
+MMBT3904-TP,MCC (Micro Commercial Components),2,6,0.10000,$0.60,"Q6,7",May apply on shipments to the U.S.
+1-1123724-2,TE Connectivity AMP Connectors,1,3,0.20000,$0.60,J1,May apply on shipments to the U.S.
+1-1123722-3,TE Connectivity AMP Connectors,1,3,0.14000,$0.42,J1.a,May apply on shipments to the U.S.
+1123721-1,TE Connectivity AMP Connectors,2,10,0.13500,$1.35,J1.b,May apply on shipments to the U.S.
+TB006-508-02BE,Same Sky (Formerly CUI Devices),1,3,0.52000,$1.56,J2,May apply on shipments to the U.S.
