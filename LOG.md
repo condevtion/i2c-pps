@@ -1,5 +1,7 @@
 # Project Log
 
+## 2026-04-07
+Finished PCB design. Found missing positions in BOM. Updated BOM with latest prices and available components
 ## 2026-03-05
 Select market available components
 ## 2026-03-01
