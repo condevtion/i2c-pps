@@ -1,5 +1,11 @@
 # Project Log
 
+## 2026-04-15
+Checked if components with customized footprints match them. All the footprints are correct. But noticed that some vias can be placed better and GND zone can be adjusted under the switcher on top layer
+## 2026-04-14
+Components for 3 assembly have been delivered. Checked if the order was fulfilled correctly. All components are here in correct quantities
+## 2026-04-12
+Tried to publish update in r/electronics. Rejected as self-promotion. Going to publish the whole thing after PCB manufacturing, assembling, and testing
 ## 2026-04-07
 Finished PCB design. Found missing positions in BOM. Updated BOM with latest prices and available components
 ## 2026-03-05
