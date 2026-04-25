@@ -15,6 +15,7 @@ Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.r
 * [Part 4 - Schematics](https://github.com/condevtion/i2c-pps/tree/main/reports/04.%20Schematics) Feb 27, 2026. Complete Schematics
 * [Part 5 - BOM](https://github.com/condevtion/i2c-pps/tree/main/reports/05.%20BOM) Mar 8, 2026. Selection of the Market available components
 * [Part 6 - PCB](https://github.com/condevtion/i2c-pps/tree/main/reports/06.%20PCB) Apr 12, 2026. Complete PCB design
+* [Part 7 - PCB Manufacturing](https://github.com/condevtion/i2c-pps/tree/main/reports/07.%20PCB%20Manufacturing) Apr 25, 2026. Fabricated PCBs and stencil
 
 ## Specifications
 - Controller: Texas Instruments [BQ25758S](https://www.ti.com/product/BQ25758S)
@@ -58,6 +59,6 @@ The diagram above shows following blocks:
 - Programming - a set of resistors to define controller's operating mode and HW limits for voltage and current
 
 ## Fabricated PCB and Stencil
-Producing a batch of 5 copies of the printed circuit board and one stencil cost $128.51, including taxes, duties ($30.37), and express shipping with customs clearance ($34.82). The final result looks great to me. While I think that the stensil could be easier to deal with if it was a bit smaller, silkscreen text looks better than I expected for the smallest size possible.
+Producing a batch of 5 copies of the printed circuit board and one stencil cost $128.51, including taxes, duties ($30.37), and express shipping with customs clearance ($34.82). The final result looks great to me. While I think that the stencil could be easier to deal with if it was a bit smaller, silkscreen text looks better than I expected for the smallest size possible.
 
-<img src="./i2c-pps-hw-pcb-top.png" alt="I2C-PPS PCB Top" width="320"> <img src="./i2c-pps-hw-stensil.png" alt="I2C-PPS Stencil" width="320">
+<img src="./i2c-pps-hw-pcb-top.png" alt="I2C-PPS PCB Top" width="320"> <img src="./i2c-pps-hw-stencil.png" alt="I2C-PPS Stencil" width="320">
