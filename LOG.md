@@ -1,5 +1,11 @@
 # Project Log
 
+## 2026-04-23
+The order has been delivered. Everything looks good to me. It would be easier to work with stensil if it was a bit smaller than the board, but it's a bit bigger instead. However, silkscreen text looks much better than I expected
+## 2026-04-21
+Factory reported that the order's done
+## 2026-04-16
+Fixed the issues spotted yesterday and submitted order for 5 copies of the PCB and a top layer stensil
 ## 2026-04-15
 Checked if components with customized footprints match them. All the footprints are correct. But noticed that some vias can be placed better and GND zone can be adjusted under the switcher on top layer
 ## 2026-04-14
