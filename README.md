@@ -60,4 +60,4 @@ The diagram above shows following blocks:
 ## Fabricated PCB and Stencil
 Producing a batch of 5 copies of the printed circuit board and one stencil cost $128.51, including taxes, duties ($30.37), and express shipping with customs clearance ($34.82). The final result looks great to me. While I think that the stensil could be easier to deal with if it was a bit smaller, silkscreen text looks better than I expected for the smallest size possible.
 
-<img src="./i2c-pps-hw-pcb-top.png" alt="I2C-PPS PCB Top" width="320"> <img src="./i2c-pps-hw-pcb-bot.png" alt="I2C-PPS PCB Bottom" width="320"> <img src="./i2c-pps-hw-stensil.png" alt="I2C-PPS Stencil" width="320">
+<img src="./i2c-pps-hw-pcb-top.png" alt="I2C-PPS PCB Top" width="320"> <img src="./i2c-pps-hw-stensil.png" alt="I2C-PPS Stencil" width="320">
