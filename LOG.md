@@ -1,5 +1,15 @@
 # Project Log
 
+## 2026-05-08
+Ordered parts (mostly 2W resistors) for load emulator and LDO in correct packaging
+## 2026-05-06
+Tested different output voltages and a bit variety of loads. Got readings for input and output voltages and currents. But values seemed a bit off
+## 2026-05-03
+Performed smoke test. The device worked in default mode converting 5.25V to 5.0V. The converter responded at 0x6B address, reported correct device ID. Wasn't able to get output current readings for light loads
+## 2026-05-02
+Assembled one PCB using fresh T5 solder paste and a 3" stainless steel putty knife to print it. Appeared that I had ordered 3.3V LDO in wrong packaging - SOT-23-3 (AP2210N-3.3TRG1) instead of SOT-23-3 (AP2210K-3.3TRG1). Fortunately, the power supply can work using 3.3V from an external source
+## 2026-04-28
+Attempted to assemble the device, but solder paste seemed to be expired
 ## 2026-04-25
 Added a report on PCB manufacturing
 ## 2026-04-23
