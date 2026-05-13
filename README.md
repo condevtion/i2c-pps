@@ -16,6 +16,7 @@ Compact Bench Power Supply controllable by [Raspberry Pi Zero 2 W](https://www.r
 * [Part 5 - BOM](https://github.com/condevtion/i2c-pps/tree/main/reports/05.%20BOM) Mar 8, 2026. Selection of the Market available components
 * [Part 6 - PCB](https://github.com/condevtion/i2c-pps/tree/main/reports/06.%20PCB) Apr 12, 2026. Complete PCB design
 * [Part 7 - PCB Manufacturing](https://github.com/condevtion/i2c-pps/tree/main/reports/07.%20PCB%20Manufacturing) Apr 25, 2026. Fabricated PCBs and stencil
+* [Part 8 - Assembly and Smoke Test](https://github.com/condevtion/i2c-pps/tree/main/reports/08.%20Assembly%20and%20Smoke%20Test) May 2, 2026. Manual assembly and smoke testing
 
 ## Specifications
 - Controller: Texas Instruments [BQ25758S](https://www.ti.com/product/BQ25758S)
