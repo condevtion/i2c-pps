@@ -1,5 +1,7 @@
 # Project Log
 
+## 2026-05-12
+Added a report on PCB assembly
 ## 2026-05-08
 Ordered parts (mostly 2W resistors) for load emulator and LDO in correct packaging
 ## 2026-05-06
